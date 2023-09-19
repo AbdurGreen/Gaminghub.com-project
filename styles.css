@@ -288,6 +288,7 @@ transform: scale(1.03);
     flex-direction: row;
     flex-wrap: wrap;
     padding: 22vh 0;
+    overflow-x: hidden;
 }
 @media (width <= 684px){
     .word-image-box{
